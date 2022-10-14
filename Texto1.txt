@@ -1,2 +1,6 @@
 Bienvenidos a la programación en JavaScritp con cambios!
+<<<<<<< HEAD
 Hecho por el main.
+=======
+modificado por rama1
+>>>>>>> rama1
